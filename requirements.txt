@@ -1,4 +1,4 @@
 pyqtgraph==0.10.0
-numpy==1.16.2
+numpy==1.22.0
 PyVISA==1.9.1
 PyQt5==5.13.0
